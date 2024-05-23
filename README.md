@@ -1,5 +1,5 @@
 # CoCoaH
-Hate Speech Detection using Context-Comment Relationship
+Hate Speech Detection using Context-Comment Relationship   
 Improving Hate Speech Detection by Learning Relationships between Contexts and Comments
 
 ## Abstract
